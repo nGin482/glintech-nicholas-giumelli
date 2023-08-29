@@ -1,9 +1,7 @@
-# Forge Hello World
-
-## GLiNTECH - Junior Software Developer / Nicholas Giumelli
+# GLiNTECH - Junior Software Developer / Nicholas Giumelli
 The codebase for Nicholas Giumelli's Forge App for the second interview for GLiNTECH's Junior Software Developer role.
 
-
+## Forge Hello World
 
 This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel. 
 
