@@ -13,7 +13,7 @@ const Labels = props => {
                     </TagGroup>
                 : 
                     <Tooltip text="Add a label using the field in the right sidebar">
-                        <Text>No labels have been addedyet.</Text>
+                        <Text>No labels have been added yet.</Text>
                     </Tooltip>
             }
         </SectionMessage>
